@@ -1,0 +1,19 @@
+
+.cover:after {
+  content: '';
+  position: absolute;
+  background-color: #e6e6e6;
+  
+}
+
+.cover .cover-main>p:last-child a:first-child {
+  color: white;
+  background: #2864ad;
+  border-color: transparent
+}
+
+.cover .cover-main>p:last-child a{
+  color:white;
+  background: #2864ad;
+  border-color: transparent;
+}
